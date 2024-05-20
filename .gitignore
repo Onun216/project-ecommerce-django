@@ -1,6 +1,4 @@
-gunicorn-error-log
-__localcode
-
+media/
 
 # Django #
 *.log
